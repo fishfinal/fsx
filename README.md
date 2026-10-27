@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Go-v1.26.6-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Version" />
+<img src="https://img.shields.io/badge/Go-v1.18-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Version" />
 <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License" />
 <img src="https://img.shields.io/badge/release-v1.0.0-blue?style=for-the-badge" alt="Release" />
 <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status" />
