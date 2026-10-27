@@ -22,3 +22,6 @@ filesystem
 
 test/gen/*
 !test/gen/.gitkeep
+
+# Temporary files.
+temporary
